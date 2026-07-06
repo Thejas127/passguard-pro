@@ -4,6 +4,8 @@ A browser-based password strength analyzer with real-time entropy scoring, crack
 🔐 PassGuard Pro — Password Strength Analyzer
 
 > A sleek, browser-based password security tool that analyzes strength, estimates crack time, and generates strong passphrases — all 100% locally, with zero data leaving your device.
+> 
+live Demo[https://thejas127.github.io/passguard-pro]
 
 ✨ Features
 
